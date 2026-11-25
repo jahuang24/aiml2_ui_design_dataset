@@ -1,2 +1,11 @@
-image_path,ui_type,visual_style
-
+image_path,ui_type,visual_style,source
+images/ui_01.png,dashboard,minimalist,https://dribbble.com/shots/25964477-Aero-Panel-Minimalist-Dashboard
+images/ui_02.png,dashboard,minimalist,https://dribbble.com/shots/15696664-Minimalist-Dashboard-UI-UX-Design
+images/ui_03.png,dashboard,minimalist,https://www.figma.com/community/file/1106312854890642371/admin-dashboard?q_id=466be68f-9c1c-4c55-8b08-21482b3ddcc0
+images/ui_04.png,dashboard,minimalist,https://www.figma.com/community/file/1232451162003418746/evaly-e-commerce-dashboard?q_id=9f89b24a-ac41-43d3-a93e-9196334b0391
+images/ui_05.png,dashboard,game,https://www.figma.com/community/file/1072579799966215917/gaming-dashboard?q_id=0023d0b2-791f-4572-aa23-7ae4deedd6c3
+images/ui_06.png,dashboard,game,https://dribbble.com/shots/27340279-Red-Dead-Redemption-2-Game-Dashboard-Experience-UI
+images/ui_07.png,dashboard,game,https://www.figma.com/community/file/1288089822318490718/gaming-dashboard?q_id=0023d0b2-791f-4572-aa23-7ae4deedd6c3
+images/ui_08.png,dashboard,brutalist,https://dribbble.com/shots/27083731-Obsidian-Agentic-Brutalist-Dashboard
+images/ui_09.png,dashboard,brutalist,https://dribbble.com/shots/26068523-RAGE-DASHBOARD-A-brutalist-personal-dashboard-for-digital-rebel
+images/ui_10.png,dashboard,brutalist,https://dribbble.com/shots/27660516-Dance-Studio-Management-Dashboard-with-Brutalist-UI
